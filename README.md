@@ -1,7 +1,7 @@
 ![STATA](https://img.shields.io/badge/STATA-Intermediate-blue)
 ![R](https://img.shields.io/badge/R-Intermediate-green)
 ![Climate](https://img.shields.io/badge/Focus-Climate%20Change-success)
-![Publications](https://img.shields.io/badge/Publications-12-brightgreen)
+![Publications](https://img.shields.io/badge/Publications-16-brightgreen)
 
 # Md. Mahfuzul Hasan, MSc
 ### Research Assistant (Econometric Analysis) | Agricultural Economist | Climate Change Researcher | Impact Assessment
